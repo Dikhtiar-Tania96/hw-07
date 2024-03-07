@@ -1,4 +1,4 @@
-import { galleryItems } from "./gallery-items.js";
+ import { galleryItems } from "./gallery-items.js";
 // console.log(galleryItems)
 
 // Отримую доступ до елемента, на який буду "вішати" розмітку
